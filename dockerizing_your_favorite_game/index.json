@@ -27,6 +27,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "test",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
@@ -35,13 +43,5 @@
   "backend": {
     "imageid": "ubuntu",
     "port": "1"
-  },
-  "assets": {
-    "host01": [
-      {
-        "file": "test",
-        "target": "~/"
-      }
-    ]
   }
 }
