@@ -37,7 +37,7 @@
     "port": "1"
   },
   "assets": {
-    "client": [
+    "host01": [
       {
         "file": "test",
         "target": "~/"
