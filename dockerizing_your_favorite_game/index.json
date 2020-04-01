@@ -35,5 +35,14 @@
   "backend": {
     "imageid": "ubuntu",
     "port": "1"
+  },
+  "assets": {
+    "client": [
+      {
+        "file": "test",
+        "target": "~/"
+      }
+    ]
   }
+}
 }
