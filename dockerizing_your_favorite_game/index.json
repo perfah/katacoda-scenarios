@@ -32,7 +32,7 @@
       "host01": [
         {
           "file": "nsnake",
-          "target": "/root"
+          "target": "/root/"
         }
       ]
     }
