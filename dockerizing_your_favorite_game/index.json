@@ -31,7 +31,7 @@
     "assets": {
       "host01": [
         {
-          "file": "nSnake",
+          "file": "nsnake",
           "target": "~/"
         }
       ]
