@@ -32,7 +32,7 @@
       "host01": [
         {
           "file": "nsnake",
-          "target": "/root/game_binaries"
+          "target": "/root"
         }
       ]
     }
@@ -42,6 +42,6 @@
   },
   "backend": {
     "imageid": "ubuntu",
-    "port": 1
+    "port": "1"
   }
 }
