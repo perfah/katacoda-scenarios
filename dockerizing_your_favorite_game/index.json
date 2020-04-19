@@ -30,10 +30,7 @@
     },
     "assets": {
       "host01": [
-        {
-          "file": "nsnake",
-          "target": "/root"
-        }
+                {"file": "nsnake", "target": "/root/", "chmod": "+x"},
       ]
     }
   },
