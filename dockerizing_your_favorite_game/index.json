@@ -30,7 +30,8 @@
     },
     "assets": {
       "host01": [
-                {"file": "nsnake", "target": "/root/", "chmod": "+x"}
+                {"file": "tetris", "target": "/root/", "chmod": "+x"},
+                {"file": "tetris.exe", "target": "/root/", "chmod": "+x"}
       ]
     }
   },
