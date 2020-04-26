@@ -39,7 +39,7 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "ubuntu",
+    "imageid": "docker/binfmt",
     "port": "1"
   }
 }
