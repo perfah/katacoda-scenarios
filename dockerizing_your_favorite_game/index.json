@@ -39,7 +39,7 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "ubuntu:latest",
+    "imageid": "ubuntu",
     "port": "1"
   }
 }
