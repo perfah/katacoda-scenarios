@@ -1,25 +1,37 @@
 {
   "title": "Dockerizing your Favorite Game",
-  "description": "",
-  "difficulty": "Beginner",
+  "description": "A tutorial on a general approach to dockerizing your favorite game for cross-platform use",
+  "difficulty": "Intermediate",
   "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "STEP 1: Experimental docker features",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "STEP 2: Local registry",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "STEP 3: Repeated steps for each platform",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "STEP 4: The dockerfile",
         "text": "step4.md"
+      },
+      {
+        "title": "STEP 5: Building an image",
+        "text": "step5.md"
+      },
+      {
+        "title": "STEP 6: The manifest list",
+        "text": "step6.md"
+      },
+      {
+        "title": "STEP 7: Running the game",
+        "text": "step7.md"
       }
     ],
     "intro": {
@@ -30,8 +42,7 @@
     },
     "assets": {
       "host01": [
-                {"file": "tetris", "target": "/root/", "chmod": "+x"},
-                {"file": "tetris.exe", "target": "/root/", "chmod": "+x"}
+                {"file": "tetris", "target": "/root/", "chmod": "+x"}
       ]
     }
   },
