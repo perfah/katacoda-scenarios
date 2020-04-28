@@ -1,10 +1,3 @@
-# Interactive Katacoda Scenarios
-
-[![](http://shields.katacoda.com/katacoda/perfah/count.svg)](https://www.katacoda.com/perfah "Get your profile on Katacoda.com")
+# Tutorial: Dockerizing your Favorite Game
 
 Visit https://www.katacoda.com/perfah to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
