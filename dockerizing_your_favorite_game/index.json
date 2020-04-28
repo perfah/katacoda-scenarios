@@ -1,6 +1,6 @@
 {
   "title": "Dockerizing your Favorite Game",
-  "description": "A tutorial on a general approach to dockerizing your favorite game for cross-platform use",
+  "description": "A tutorial presenting a general approach to dockerizing your favorite game for cross-platform use",
   "difficulty": "Intermediate",
   "time": "20 minutes",
   "details": {
