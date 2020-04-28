@@ -6,31 +6,31 @@
   "details": {
     "steps": [
       {
-        "title": "STEP 1: Experimental docker features",
+        "title": "Experimental docker features",
         "text": "step1.md"
       },
       {
-        "title": "STEP 2: Local registry",
+        "title": "Local registry",
         "text": "step2.md"
       },
       {
-        "title": "STEP 3: Repeated steps for each platform",
+        "title": "Repeated steps for each platform",
         "text": "step3.md"
       },
       {
-        "title": "STEP 4: The dockerfile",
+        "title": "The dockerfile",
         "text": "step4.md"
       },
       {
-        "title": "STEP 5: Building an image",
+        "title": "Building an image",
         "text": "step5.md"
       },
       {
-        "title": "STEP 6: The manifest list",
+        "title": "The manifest list",
         "text": "step6.md"
       },
       {
-        "title": "STEP 7: Running the game",
+        "title": "Running the game",
         "text": "step7.md"
       }
     ],
