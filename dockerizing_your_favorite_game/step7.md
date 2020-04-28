@@ -4,4 +4,12 @@ You have now achieved support for one or more platforms with the versatile and e
 
 **Example** `docker run -it localhost:5000/tetris:latest`{{execute}}
 
+**Explanation of flag:**
+
+```-i``` - interactive mode (keep stdin open even if not attached)
+
+```-t``` - allocates a pseudo-tty
+
+
+
 
