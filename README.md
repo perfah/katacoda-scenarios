@@ -1,3 +1,3 @@
 # Tutorial: Dockerizing your Favorite Game
 
-Visit https://www.katacoda.com/perfah to view the profile and interactive scenarios
+Visit the tutorial here: https://www.katacoda.com/perfah/scenarios/dockerizing_your_favorite_game
