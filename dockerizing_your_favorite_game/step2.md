@@ -9,4 +9,4 @@
    - ```--restart=always``` - a restart policy run when container exists (restart the process automatically if it goes down)
    - ```--name <name>``` - assign a name to the container/registry (we will call it ```registry```)
  
- 2. Then press continue.
+2. Then press continue.
