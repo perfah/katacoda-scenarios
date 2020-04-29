@@ -30,3 +30,5 @@ A manifest list is a chain of (usually multiple) docker image layers that may sp
    ```docker manifest inspect localhost:5000/<GAME>:latest```
    
    **Example:** `docker manifest inspect localhost:5000/tetris:latest`{{execute}}
+   
+5. Then press continue.
