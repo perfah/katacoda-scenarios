@@ -16,10 +16,10 @@ We will assume you already have the following:
 
 **Recommendations**
 
-To be able to to get through the tutorial successfully you should note the following:
+To be able to to get through the tutorial successfully you should note the following: 
 
-- a black box with a command inside means that you should run the command by clicking the box
-- a black box with other text inside means that you should copy some of this text into a file by clicking the box
+- a gray box with a command inside means that you should run the command by clicking the box
+- a gray box with other text inside means that you should copy some of this text into a file by clicking the box
 - you are expected to click continue only after executing every command of each step
 
 **Limitations of this tutorial**
