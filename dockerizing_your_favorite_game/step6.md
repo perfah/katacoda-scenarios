@@ -12,7 +12,6 @@ A manifest list is a chain of (usually multiple) docker image layers that may sp
 
       ```docker manifest create --insecure localhost:5000/<GAME>:latest -a localhost:5000/<GAME>-<the other architecture>-<the other OS>:<tag>```
 
-
 2. Assign an architecture and operating system to the image (now contained in the manifest list):
    
    ```docker manifest annotate localhost:5000/<GAME>:latest localhost:5000/<GAME>-<ARCHITECTURE>-<OS>:<tag> --arch <ARCHITECTURE> --os <OS>```
@@ -30,5 +29,5 @@ A manifest list is a chain of (usually multiple) docker image layers that may sp
    ```docker manifest inspect localhost:5000/<GAME>:latest```
    
    **Example:** `docker manifest inspect localhost:5000/tetris:latest`{{execute}}
-   
+
 5. Then press continue.
