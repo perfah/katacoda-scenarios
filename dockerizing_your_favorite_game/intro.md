@@ -4,7 +4,7 @@
 
 **Background**
 
-"Docker" is a suite of "platform as a service" (PaaS) products that offer "containers" to work with. A finalized container is an isolated environment that is capable of delivering the experience it was created for without involving the user in unnecessary details (e.g. software setup, dependencies, configuration files and even the platform used). Yes, Docker in fact offers (some experimental) features that will allow you to abstract away from an impressive set of otherwise concerning factors.
+"Docker" is a suite of "platform as a service" (PaaS) products that offer "containers" to work with. A container is an isolated environment that is capable of delivering the experience it was created for without involving the user in unnecessary details (e.g. software setup, dependencies, configuration files and even the platform used). Yes, Docker in fact offers (some experimental) features that will allow you to abstract away from an impressive set of otherwise concerning factors.
 
 **Prerequisites**
 
