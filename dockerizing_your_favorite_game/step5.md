@@ -13,5 +13,7 @@
    ```docker push localhost:5000/tetris-<ARCHITECTURE>-<OS>:v1```
 
    **Example:** `docker push localhost:5000/tetris-amd64-linux:v1`{{execute}}
+   
+4. Then press continue.
 
 
