@@ -2,15 +2,15 @@ You have now achieved support for one or more platforms with the versatile and e
 
 1. You may now run the game with the following platform-independent command:
 
-```docker run -it localhost:5000/<GAME>:latest```
+   ```docker run -it localhost:5000/<GAME>:latest```
 
-**Example** `docker run -it localhost:5000/tetris:latest`{{execute}}
+   **Example:** `docker run -it localhost:5000/tetris:latest`{{execute}}
 
-**Explanation of flag:**
+   **Explanation of flag:**
 
-```-i``` - interactive mode (keep stdin open even if not attached)
+   - ```-i``` - interactive mode (keep stdin open even if not attached)
 
-```-t``` - allocates a pseudo-tty
+   - ```-t``` - allocates a pseudo-tty
 
 2. Play the game.
 
