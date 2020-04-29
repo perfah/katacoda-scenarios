@@ -18,7 +18,7 @@
         "text": "step3.md"
       },
       {
-        "title": "The dockerfile",
+        "title": "The 'dockerfile'",
         "text": "step4.md"
       },
       {
@@ -26,11 +26,11 @@
         "text": "step5.md"
       },
       {
-        "title": "The manifest list",
+        "title": "The 'manifest list'",
         "text": "step6.md"
       },
       {
-        "title": "OS-independent binary execution",
+        "title": "Platform-independent execution method",
         "text": "step7.md"
       }
     ],
