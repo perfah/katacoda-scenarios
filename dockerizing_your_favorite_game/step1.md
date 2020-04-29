@@ -4,4 +4,4 @@ First of all, we will need experimental features of Docker to complete this tuto
 
    `export DOCKER_CLI_EXPERIMENTAL=enabled`{{execute}}
    
-2. Then press continue
+2. Then press continue.
