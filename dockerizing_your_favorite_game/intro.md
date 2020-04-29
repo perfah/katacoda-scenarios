@@ -21,6 +21,7 @@ To be able to to get through the tutorial successfully you should note the follo
 - a gray box with a command inside means that you should run the command by clicking the box
 - a gray box with other text inside means that you should copy some of this text into a file by clicking the box
 - you are expected to click continue only after executing every command of each step
+- if you want to play a game at the end you need to run the example commands
 
 **Limitations of this tutorial**
 
