@@ -12,7 +12,7 @@ A "dockerfile" contains all the information that Docker needs to create an image
    
    **Explanation of variables**:
    
-   - ```<BASE_CONTAINER>``` refers to the name of a suitable Docker container/environment for the game (e.g. ```ubuntu``` if the platform is Linux). You can search for one at [Docker Hub](https://hub.docker.com/) and grab the image name.
+   - ```<BASE_CONTAINER>``` refers to the name of a suitable Docker container/environment for the game (e.g. ```ubuntu``` if the platform is Linux). You can search for one at [Docker Hub](https://hub.docker.com/) and grab the image name/address.
    - ```<GAME_BINARY>``` refers the executable binary of the game (e.g. ```.exe``` on Windows)
    - ```<COMMAND FOR INSTALLING DEPENDENCIES>``` used to install dependencies for the game if the base container does not already provide them. The decision of base container will also affect what command needs to be run here - due to differing package managers.  
    
