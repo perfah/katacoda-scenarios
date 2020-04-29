@@ -28,7 +28,5 @@ A "dockerfile" contains all the information that Docker needs to create an image
    EOF
    ```{{execute}}
    
-   
-
 2. Then press continue.
 
