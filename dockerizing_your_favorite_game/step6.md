@@ -18,16 +18,16 @@ A 'manifest list' is a chain of (usually multiple) Docker image layers, that all
 
    **Example:** `docker manifest annotate localhost:5000/tetris:latest localhost:5000/tetris-amd64-linux:v1 --arch amd64 --os linux`{{execute}}
 
-3. Push to our registry:
-
-   ```docker manifest push localhost:5000/<GAME>:latest```
-
-   **Example:** `docker manifest push localhost:5000/tetris:latest`{{execute}}
-
-4. Inspect the newly created manifest list:
+3. Inspect the newly created manifest list (you should see manifests corresponding to the platforms you have added):
 
    ```docker manifest inspect localhost:5000/<GAME>:latest```
    
    **Example:** `docker manifest inspect localhost:5000/tetris:latest`{{execute}}
+
+4. Push to our registry:
+
+   ```docker manifest push localhost:5000/<GAME>:latest```
+
+   **Example:** `docker manifest push localhost:5000/tetris:latest`{{execute}}
 
 5. Then press continue.
