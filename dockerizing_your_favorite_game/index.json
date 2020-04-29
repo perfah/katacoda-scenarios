@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Experimental docker features",
+        "title": "Experimental Docker features",
         "text": "step1.md"
       },
       {
@@ -22,7 +22,7 @@
         "text": "step4.md"
       },
       {
-        "title": "Building an image",
+        "title": "Image creation",
         "text": "step5.md"
       },
       {
@@ -30,7 +30,7 @@
         "text": "step6.md"
       },
       {
-        "title": "Running the game",
+        "title": "OS-independent binary execution",
         "text": "step7.md"
       }
     ],
