@@ -1,4 +1,4 @@
-A manifest list is a chain of (usually multiple) docker image layers that may specify information such as available architecture and operating system support. In the sense of execution, you can handle a manifest in the same way you handle any single docker image. This makes manifest lists a strong candidate for cross-platform container distribution.
+A 'manifest list' is a chain of (usually multiple) Docker image layers, that all may be linked to their own dockerfiles, as well as specify information such as the intended architecture and operating system. Practically, this means that we will have a list of platforms supported when running the final container. In the sense of execution, you can namely handle a manifest in the same way you handle any single docker container. One can therefore make a strong case for manifest lists in the context of cross-platform container distribution.
 
 1. The ```docker manifest create``` command is used to create or amend manifest. 
 
