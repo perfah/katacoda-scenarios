@@ -18,7 +18,7 @@ A manifest list is a chain of (usually multiple) docker image layers that may sp
 
    **Example:** `docker manifest annotate localhost:5000/tetris:latest localhost:5000/tetris-amd64-linux:v1 --arch amd64 --os linux`{{execute}}
 
-3. Push to repo:
+3. Push to our registry:
 
    ```docker manifest push localhost:5000/<GAME>:latest```
 
